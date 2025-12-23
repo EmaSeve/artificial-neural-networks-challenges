@@ -22,4 +22,5 @@ This repository contains the solutions and documentation for two deep learning c
 * **Vincenzo Del Grosso**
 * **Mattia Rusconi**
 * **Riccardo Scarabelli**
+  
 
