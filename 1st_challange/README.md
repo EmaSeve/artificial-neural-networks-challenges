@@ -1,6 +1,5 @@
 # AN2DL - Timeseries Classification 
 
-![Project Status](https://img.shields.io/badge/Status-Completed-success)
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Framework](https://img.shields.io/badge/PyTorch-Deep_Learning-red)
 ![License](https://img.shields.io/badge/License-Academic-lightgrey)

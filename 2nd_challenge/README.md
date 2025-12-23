@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-ee4c2c)
 ![XGBoost](https://img.shields.io/badge/XGBoost-Enabled-green)
-![Status](https://img.shields.io/badge/Status-Completed-success)
 
 **Team:** Emanuele Severino, Vincenzo Del Grosso, Mattia Rusconi, Riccardo Scarabelli  
 **Context:** Artificial Neural Networks and Deep Learning - Second Challenge 
